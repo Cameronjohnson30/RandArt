@@ -10,9 +10,17 @@ RandArt will allow users to build a library of art ideas and have it generate a 
 * Provide a random output based on the the library built.
 
 ## What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
-* Ruby 
-* Rails
-* CSS
+* _Ruby_ 
+* _Rails_ 
+* _RSPEC_
+* _Capybara_
+* _shoulda-matchers_
+* _Pry_
+* _Postgres_
+* _SQL_
+* _Devise_
+* _CSS_ 
+* _JavaScript_
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 * Users sign up and make a profile 
