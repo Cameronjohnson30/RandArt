@@ -14,3 +14,6 @@
 * _3:27 pm to 3:35 pm watched video about adding unique username to divise_ https://www.youtube.com/watch?v=3MA6kS2xpNA | 8 min
 * _3:32 pm to 3:38 pm watched video about calling an API in rails_ https://www.youtube.com/watch?v=mwtKQlu7a08 | 6 min
 * _3:40 pm to 4:02 pm watched video about using Rail React and APIs_ https://www.youtube.com/watch?v=_rLMRd676-I | 22 min
+* _4:05 pm to 4:17 pm watched video about calling APIs in Ruby and Rails_ https://www.youtube.com/watch?v=yBoirt-nV2o | 12 min
+* _4:20 pm to 4:55 pm watched video about CSS techniques_ https://www.youtube.com/watch?v=ceNMP-aQkQ4 | 35 min
+__________________________________________________________________________________________________ total for Aug 25th 5 hours______________________ 
