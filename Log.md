@@ -19,4 +19,4 @@
 __________________________________________________________________________________________________ total for Aug 25th 5 hours______________________ 
 
 _______________Saturday September 10th __________________________
-*5:00pm to ? Reading the lessons on ruby and rails 
+*5:00pm to 6:00pm Reading the lessons on ruby and rails | 1hr
