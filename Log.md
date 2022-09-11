@@ -17,3 +17,6 @@
 * _4:05 pm to 4:17 pm watched video about calling APIs in Ruby and Rails_ https://www.youtube.com/watch?v=yBoirt-nV2o | 12 min
 * _4:20 pm to 4:55 pm watched video about CSS techniques_ https://www.youtube.com/watch?v=ceNMP-aQkQ4 | 35 min
 __________________________________________________________________________________________________ total for Aug 25th 5 hours______________________ 
+
+_______________Saturday September 10th __________________________
+*5:00pm to ? Reading the lessons on ruby and rails 
