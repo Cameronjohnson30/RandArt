@@ -20,3 +20,5 @@ ________________________________________________________________________________
 
 _______________Saturday September 10th __________________________
 *5:00pm to 6:00pm Reading the lessons on ruby and rails | 1hr
+*6:00pm to 7:13pm watched tutorial video https://www.youtube.com/watch?v=dqjF3C9A-Yg | 1hr 13 min
+*7:15pm to 8:15pm watched part 2 of video https://www.youtube.com/watch?v=yhg7hd3ogJ8 | 1hr 
