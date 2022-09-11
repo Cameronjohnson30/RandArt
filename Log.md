@@ -22,5 +22,6 @@ _______________Saturday September 10th __________________________
 * _5:00pm to 6:00pm Reading the lessons on ruby and rails_ | 1hr
 * _6:00pm to 7:13pm watched tutorial video_ https://www.youtube.com/watch?v=dqjF3C9A-Yg | 1hr 13 min
 * _7:15pm to 8:15pm watched part 2 of video_ https://www.youtube.com/watch?v=yhg7hd3ogJ8 | 1hr 
-* _8:15pm to 9:06 watched part 3_ https://www.youtube.com/watch?v=SEBkefh2q2M | 51 min 
-__________________total for September 10th 4 hours_______
+* _8:15pm to 9:06pm watched part 3_ https://www.youtube.com/watch?v=SEBkefh2q2M | 51 min 
+* _10:00pm to 10:43pm watched video on notifications_ https://www.youtube.com/watch?v=c570-wnW_-A |34 min
+__________________total for September 10th 4.5 hours_______
