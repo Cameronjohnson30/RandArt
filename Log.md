@@ -25,3 +25,18 @@ _______________Saturday September 10th __________________________
 * _8:15pm to 9:06pm watched part 3_ https://www.youtube.com/watch?v=SEBkefh2q2M | 51 min 
 * _10:00pm to 10:43pm watched video on notifications kinda like this setup. go back to the other parts to see if there is usefull ideas_ https://www.youtube.com/watch?v=c570-wnW_-A |34 min
 __________________total for September 10th 5 hours_______
+
+________________september 14th________
+
+* 40 mins of setting up proper db messed up the first attempt 
+
+_________________ total for the SEP 14th_________ 40 mins 
+
+
+__________________sep 18th __________
+
+* 1hr working on code
+_____________________ total for sep 18th____________ 1 hr
+
+___________________sep 24th _________
+* 3 hr working on code 
